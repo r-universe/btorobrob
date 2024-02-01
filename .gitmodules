@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/btorobrob/universe
+	url = https://github.com/btorobrob/btorobrob.r-universe.dev
 	branch = HEAD
 [submodule "cesr"]
 	path = cesr
